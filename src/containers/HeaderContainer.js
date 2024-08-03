@@ -29,7 +29,7 @@ const HeaderContainer = ({ bg, source }) => {
         <HeaderWrapper.Container>
           <HeaderWrapper.Title bg={bg}>
             <HeaderWrapper.Link bg={bg} fixed={fixed} to="/">
-              Real Home
+              EldoState Properties
             </HeaderWrapper.Link>
           </HeaderWrapper.Title>
           <HeaderWrapper.LinksContainer>
@@ -45,7 +45,7 @@ const HeaderContainer = ({ bg, source }) => {
             <HeaderWrapper.List>
               <HeaderWrapper.Item>
                 <HeaderWrapper.Anchor to="/add-listing" special="true">
-                  Add Listing
+                  Add Property
                 </HeaderWrapper.Anchor>
               </HeaderWrapper.Item>
             </HeaderWrapper.List>
@@ -62,10 +62,9 @@ const HeaderContainer = ({ bg, source }) => {
       {bg === "true" && (
         <Jumbotron>
           <Jumbotron.Left>
-            <Jumbotron.Title>Find The Home You Deserve With Us</Jumbotron.Title>
+            <Jumbotron.Title>Welcome to the City of Eldoret</Jumbotron.Title>
             <Jumbotron.Text>
-              Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quaerat,
-              exercitationem.
+              Properties for Sale, Rent & Lease
             </Jumbotron.Text>
           </Jumbotron.Left>
           <Jumbotron.Right>

@@ -7,18 +7,18 @@ const FooterContainer = () => {
       <Footer.Container>
         <Footer.Content>
           <Footer.Item>
-            <Footer.Title>Real Home</Footer.Title>
+            <Footer.Title>EldoState</Footer.Title>
             <Footer.Text>
-              1337 Tengecha Road,Nairobi.Imarisha Tower, Second Floor, Room 135
+              Annex Arcade
             </Footer.Text>
             <Footer.List>
               <Footer.ListItem>
                 <Footer.Icon name="fas fa-phone-alt" social="true" />
-                <Footer.Text>+254720843306</Footer.Text>
+                <Footer.Text>+254724052417</Footer.Text>
               </Footer.ListItem>
               <Footer.ListItem>
                 <Footer.Icon name="fab fa-whatsapp" social="true" />
-                <Footer.Text>+254720843306</Footer.Text>
+                <Footer.Text>+254724052417</Footer.Text>
               </Footer.ListItem>
               <Footer.ListItem>
                 <Footer.Icon name="far fa-envelope" social="true" />
@@ -99,7 +99,7 @@ const FooterContainer = () => {
       </Footer.Container>
       <Footer.Bottom>
         <Footer.Container>
-          <Footer.Text>&copy; Real Home. All Rights Reserved</Footer.Text>
+          <Footer.Text>&copy; EldoState. 2024 All Rights Reserved</Footer.Text>
         </Footer.Container>
       </Footer.Bottom>
     </Footer>
